@@ -11,6 +11,6 @@ A ***growth mindset*** to me means there's always more to learn regardless of wh
 
 # The sky's the limit with a growth mindset!
 
-[The sky's the limit with a growth mindset!](https://images.unsplash.com/photo-1668365187350-05c997d09eba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![The sky's the limit with a growth mindset!](https://images.unsplash.com/photo-1668365187350-05c997d09eba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 Here's a link to my github portfolio: https://github.com/JoseDanielMartinez
