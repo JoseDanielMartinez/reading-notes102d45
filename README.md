@@ -1,5 +1,5 @@
 Reading journal for my notes
-#Hello my name is Jose and I am learning to code#
+# Hello my name is Jose and I am learning to code
 
 Growth mindset to me means...
 
