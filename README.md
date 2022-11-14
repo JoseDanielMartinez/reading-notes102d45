@@ -1,5 +1,5 @@
 Reading journal for my notes
-# Hello my name is Jose and I am learning to code
+# Hello my name is Jose D. Martinez and I am learning to code
 
 Growth mindset to me means there's always more to learn regardless of where you are in life.  It is about expanding knowledge beyond what you thought was possible.  
 
@@ -9,4 +9,4 @@ Growth mindset to me means there's always more to learn regardless of where you 
 2. Expand news mediums.  Seek differing ways to learn.  Read, listen to podcasts, and think about taking in a Ted talk from time to time.  Fresh takes on new areas expands our views.
 3. Grow social networks.  Follow similar and disimilar celebrity personalities on social media. Listen to what they are saying and how it impacts you and your world.
 
-Here's a link to my github portfolio
+Here's a link to my github portfolio: https:
