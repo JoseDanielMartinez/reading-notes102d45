@@ -1,7 +1,7 @@
 Reading journal for my notes
 # Hello my name is Jose D. Martinez and I am learning to code
 
-A **growth mindset** to me means there's always more to learn regardless of where you are in life.  It is about expanding knowledge beyond what you thought was possible.  
+A ***growth mindset*** to me means there's always more to learn regardless of where you are in life.  It is about expanding knowledge beyond what you thought was possible.  
 
 3 Reminders to stay in a growth mindset:
 
