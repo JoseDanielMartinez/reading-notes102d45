@@ -1,6 +1,8 @@
 Reading journal for my notes
 # Hello my name is Jose D. Martinez and I am learning to code
 
+I recently retired from the military after 20+ years of service.  Learning to code is a new endeavour I look forward to mastering.  I'll have to find time for class here in Southern Florida.  It'll be a challenge to say the least!
+
 A ***growth mindset*** to me means there's always more to learn regardless of where you are in life.  It is about expanding knowledge beyond what you thought was possible.  
 
 3 reminders to stay in a growth mindset:
