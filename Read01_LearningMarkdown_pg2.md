@@ -25,3 +25,5 @@
 # Summary
 
 Markdown is a way of speaking to your computer to get it to do things a specific way. If the language dialect analogy holds true, think of it as a way of speaking to your work team when you need them to get things done.  You'll obviously tailor how you speak to get specific tasks completed.  I did this for years in the Army.  The same holds true for Markdown.
+
+![](https://user-images.githubusercontent.com/118199359/202496567-99813c61-176b-42e2-a195-3fd59aaf7b9f.png)
