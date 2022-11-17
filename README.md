@@ -19,4 +19,4 @@ Here's a link to my GitHub portfolio: [https://github.com/JoseDanielMartinez](ht
 
 After checking out my portfolio, feel free to move along to my class notes.
 
-Let's begin with learning Markdown: [Learning Markdown]([Read01_Learning Markdown](https://josedanielmartinez.github.io/reading-notes102d45/Read01_Learning Markdown))
+Let's begin with learning Markdown: [Read01_LearningMarkdown](https://josedanielmartinez.github.io/reading-notes102d45/Read01_LearningMarkdown)
