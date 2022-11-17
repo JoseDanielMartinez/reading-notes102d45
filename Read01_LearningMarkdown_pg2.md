@@ -21,3 +21,7 @@
 
 15. Disabling Markdown rendering
 - When viewing a Markdown file, you can click at the top of the file to disable Markdown rendering and view the file's source instead
+
+# Summary
+
+Markdown is a way of speaking to your computer to get it to do things a specific way. If the language dialect analogy holds true, think of it as a way of speaking to your work team when you need them to get things done.  You'll obviously tailor how you speak to get specific tasks completed.  I did this for years in the Army.  The same holds true for Markdown.
