@@ -57,4 +57,8 @@ Basic writing and formatting syntax on GitHub
 
 Let's continue learning Markdown on the next page: [Read01_LearningMarkdown_pg2](https://github.com/JoseDanielMartinez/reading-notes102d45/blob/main/Read01_LearningMarkdown_pg2.md)
 
+Source - GitHub 
+
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
