@@ -57,6 +57,6 @@ Basic writing and formatting syntax on GitHub
 
 8. Specifying the theme an image is shown to
 
-Let's continue learning Markdown on the next page: [Read01_LearningMarkdownpg2](https://josedanielmartinez.github.io/reading-notes102d45/Read01_LearningMarkdown)
+Let's continue learning Markdown on the next page: [Read01_LearningMarkdown_pg2](https://josedanielmartinez.github.io/reading-notes102d45/Read01_LearningMarkdown_pg2)
 
 
