@@ -55,6 +55,6 @@ Basic writing and formatting syntax on GitHub
 
 ![Add images](https://images.unsplash.com/photo-1668611109415-5ddba19b937e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60)
 
-Let's continue learning Markdown on the next page: [Read01_LearningMarkdown_pg2](https://josedanielmartinez.github.io/reading-notes102d45/Read01_LearningMarkdown_pg2)
+Let's continue learning Markdown on the next page: [Read01_LearningMarkdown_pg2](https://github.com/JoseDanielMartinez/reading-notes102d45/edit/main/Read01_LearningMarkdown_pg2.md2)
 
 
