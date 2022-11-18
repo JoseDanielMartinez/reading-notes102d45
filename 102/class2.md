@@ -25,7 +25,7 @@ Syntax highlighting and themes ease eye strain
 
 Extensions increase functionality
 
-While you could easily go with your computer's already embedded text editor, most developers go with third party options
+While you could easily go with upir computer's already embedded text editor, most developers go with third party options
 
 Source: [The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
