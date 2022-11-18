@@ -2,9 +2,11 @@
 
 ## Hello my name is Jose D. Martinez and I am learning to code
 
-Table of Contents
+[Reading Time!](https://images.unsplash.com/photo-1472745433479-4556f22e32c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80)
 
-### 102 Notes
+## Table of Contents
+
+### *102 Notes*
 
 * [Class 1 Reading Notes](102/class1.md)
 * [Class 2 Reading Notes](102/class2.md)
@@ -16,7 +18,7 @@ Table of Contents
 * [Class 8 Reading Notes](102/class8.md)
 
 
-### 201 Notes
+### *201 Notes*
 
 * [Class 1 Reading Notes](102/class1.md)
 * [Class 2 Reading Notes](102/class2.md)
