@@ -2,7 +2,7 @@
 
 ## Hello my name is Jose D. Martinez and I am learning to code
 
-[Reading Time!](https://images.unsplash.com/photo-1472745433479-4556f22e32c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80)
+![Reading Time!](https://images.unsplash.com/photo-1472745433479-4556f22e32c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80)
 
 ## Table of Contents
 
