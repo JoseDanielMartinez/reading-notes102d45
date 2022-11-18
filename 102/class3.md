@@ -56,4 +56,8 @@ Git has a full life cycle.  Coder's would be wise to understand it's intricacies
 
 In order to collaborate on Git projects, users interact with remote repositories.  These are ersions of a project residing online or on a network. 
 
+# *Summary*
+
+If you don't have a firm grasp of the basics, you'll likely become swamped in frustration.  I learned several times training soldiers over the years.  You can't master intricacies without fundamentals.
+
 Source: [Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
