@@ -1,10 +1,6 @@
-![servers](https://images.unsplash.com/photo-1571786256017-aee7a0c009b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80)
+## Git Tutorial: A Comprehensive Guide
 
-Photo source: [Unsplash](https://unsplash.com/)
-
-# Git Tutorial: A Comprehensive Guide
-
-# Overview 
+## Overview 
 
 Underatanding Git fundamentals helps understand storage basics and collaboration
 
@@ -56,10 +52,4 @@ Git has a full life cycle.  Coder's would be wise to understand it's intricacies
 
 In order to collaborate on Git projects, users interact with remote repositories.  These are ersions of a project residing online or on a network. 
 
-# *Summary*
-
-If you don't have a firm grasp of the basics, you'll likely become swamped in frustration.  I learned several times training soldiers over the years.  You can't master intricacies without fundamentals.
-
-## Things I want to know more about
-
-Source: [Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
+Source: [Udemy] (https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
