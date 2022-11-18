@@ -2,9 +2,9 @@
 
 Photo source: [Unsplash](https://unsplash.com/)
 
-## Git Tutorial: A Comprehensive Guide
+# Git Tutorial: A Comprehensive Guide
 
-## Overview 
+# Overview 
 
 Underatanding Git fundamentals helps understand storage basics and collaboration
 
