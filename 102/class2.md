@@ -1,13 +1,17 @@
 ![The Matrix](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80)
 
+# Overview
+
+This topic matters because developers can really shoot themselves in the foot without a ***firm*** grasp of coding basics.
+
 # Choosing a Text Editor
 
 Text editors help developers write code easily
 
 ## Four important features of any text editor are:
 
-- code completion; 
-- syntax highlighting; 
+- code completion
+- syntax highlighting 
 - variety of themes 
 - extensions 
 
@@ -75,3 +79,5 @@ Quotes single items go in single quotes
 Escape characters like \ nullifies special meaning
 
 ls -a helps find hidden files
+
+# Things I want to know more about
