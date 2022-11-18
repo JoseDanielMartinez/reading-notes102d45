@@ -60,4 +60,6 @@ In order to collaborate on Git projects, users interact with remote repositories
 
 If you don't have a firm grasp of the basics, you'll likely become swamped in frustration.  I learned several times training soldiers over the years.  You can't master intricacies without fundamentals.
 
+## Things I want to know more about
+
 Source: [Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
