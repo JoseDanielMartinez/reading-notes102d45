@@ -1,11 +1,19 @@
+![The Matrix](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80)
+
+Photo source from [Unsplash](https://unsplash.com/)
+
+# Overview
+
+This topic matters because developers can really shoot themselves in the foot without a ***firm*** grasp of coding basics.
+
 # Choosing a Text Editor
 
 Text editors help developers write code easily
 
 ## Four important features of any text editor are:
 
-- code completion; 
-- syntax highlighting; 
+- code completion
+- syntax highlighting 
 - variety of themes 
 - extensions 
 
@@ -17,7 +25,9 @@ Syntax highlighting and themes ease eye strain
 
 Extensions increase functionality
 
-While you could easily go with upir computer's already embedded text editor, most developers go with third party options
+While you could easily go with your computer's already embedded text editor, most developers go with third party options
+
+Source: [The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 # The Command Line
 
@@ -31,6 +41,8 @@ Opening terminals are simple.  Again, most coder's choose third party options.  
 Understanding bash (Bourne again shell) helps coders know how the terminal will react to commands
 
 Understanding and memorizing as many shortcuts as humanly possible also eases coder's lives.
+
+Source [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 ## Navigation
 
@@ -51,6 +63,8 @@ Relative paths specify a location (file or directory) in relation to where we cu
 .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
 
 Tab is a coder's friend! it allows thought completion
+
+Source [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
 ## More About Files
 
@@ -73,3 +87,7 @@ Quotes single items go in single quotes
 Escape characters like \ nullifies special meaning
 
 ls -a helps find hidden files
+
+Source [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+# Things I want to know more about
