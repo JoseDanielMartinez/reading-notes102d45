@@ -19,4 +19,4 @@ There are different types of JavaScript operators:
 
 An easy way to think about control flow is like any structured tasks list.  Some things have to happen before others.  You can't just start blurting out a to do list if your team doesn't doesn't understand the logical flow of what needs to happen first versus last.
 
-## Things I've Alwyas Wanted to Know About
+## Things I've Always Wanted to Know About
